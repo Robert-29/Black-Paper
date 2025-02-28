@@ -1,11 +1,11 @@
-import BlackPaperAnimation from "./components/BlackPaperAnimation"
+import Home from "./Pages/Home"
 
 function App() {
 
 
   return (
     <>
-      <BlackPaperAnimation />
+      <Home />
     </>
   )
 }
